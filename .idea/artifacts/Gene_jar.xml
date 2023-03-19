@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gene:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gene_jar</output-path>
+    <root id="archive" name="Gene.jar">
+      <element id="module-output" name="Gene" />
+    </root>
+  </artifact>
+</component>
